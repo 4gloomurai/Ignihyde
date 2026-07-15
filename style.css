@@ -113,10 +113,9 @@ color:#666;
 
 .content{
 
-    display:grid;
-    grid-template-columns:1fr 1fr;
-    gap:20px;
-    align-items:stretch;
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:20px;
 
 }
 
