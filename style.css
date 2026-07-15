@@ -131,7 +131,7 @@ min-height:300px;
 
 .gallery-img{
 
-width:100%;
+width:50%;
 height:50px;
 object-fit:cover;
 border-radius:12px;
@@ -141,7 +141,7 @@ margin:15px 0;
 
 .games-img{
 
-width:100%;
+width:50%;
 height:50px;
 object-fit:cover;
 border-radius:12px;
