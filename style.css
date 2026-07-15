@@ -147,3 +147,11 @@ color:#666;
     border-radius:10px;
 
 }
+
+.games-container{
+
+    display:flex;
+    gap:15px;
+    margin-top:15px;
+
+}
