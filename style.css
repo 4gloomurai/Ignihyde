@@ -133,10 +133,10 @@ color:#666;
 
 .gallery-img{
 
-    width:140px;
-    height:140px;
+    width:65px;
+    height:65px;
     object-fit:cover;
-    border-radius:12px;
+    border-radius:10px;
 
 }
 
@@ -149,10 +149,11 @@ color:#666;
 
 }
 
-.gallery-row{
+.gallery-grid{
 
-    display:flex;
-    gap:15px;
+    display:grid;
+    grid-template-columns:repeat(6, 65px);
+    gap:10px;
     margin-top:15px;
 
 }
