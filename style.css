@@ -127,16 +127,15 @@ color:#666;
 .gallery-grid{
 
     display:grid;
-    grid-template-columns:repeat(6, 80px);
+    grid-template-columns:repeat(6, 1fr);
     gap:10px;
-    justify-content:center;
 
 }
 
 .gallery-img{
 
-    width:80px;
-    height:80px;
+    width:100%;
+    aspect-ratio:1/1;
     object-fit:cover;
     border-radius:8px;
 
