@@ -130,21 +130,17 @@ min-height:300px;
 }
 
 .gallery-img{
-
-width:50%;
-height:5px;
-object-fit:cover;
-border-radius:12px;
-margin:5px 0;
+    width: 200px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 10px;
   
 }
 
 .games-img{
-
-width:50%;
-height:5px;
-object-fit:cover;
-border-radius:12px;
-margin:5px 0;
+    width: 200px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 10px;
   
 }
