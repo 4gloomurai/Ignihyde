@@ -123,20 +123,6 @@ color:#666;
     border-radius:15px;
     box-shadow:0 10px 20px rgba(0,0,0,.08);
     min-height:350px;
-}
-
-.games-row{
-    display:flex;
-    gap:15px;
-    margin-top:15px;
-}
-
-.games-img{
-
-    width:140px;
-    height:140px;
-    object-fit:cover;
-    border-radius:12px;
 
 }
 
